@@ -1,7 +1,7 @@
 ---
 ah_namespaces:
-  - name: abc15
+  - name: test_namespace
     company: Redhat
-    email: user@example.com
+    email: shebi@redhat.com
     avatar_url: https://static.redhat.com/libs/redhat/brand-assets/latest/corp/logo.svg
     description: Added as a config-as-code example
